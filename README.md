@@ -1,0 +1,2 @@
+# 06_exercise_mysql_in_studentsapplication
+Connect our StudentsApplication to your GearHost Database
